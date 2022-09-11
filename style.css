@@ -12,7 +12,7 @@ body{
     padding: 5px 5px;
     border:1px solid #ddd;
     text-align: center;
-    font-size:10px;
+    font-size:15px;
 }
 
 #makeUpTable th{
@@ -23,7 +23,7 @@ body{
 
 #page_heading_div{
     width:100%;
-    font-size:12px;
+    font-size:15px;
     font-weight:bold;
 }
 
@@ -35,17 +35,17 @@ body{
 }
 
 #search_bar_input,#search_button_id{
-    font-size:9px;
+    font-size:12px;
     margin-top:0px;
 }
 
 #loading-message-div{
-    font-size:10px;
+    font-size:12px;
     margin-top:5px;
     margin-bottom:0px;
 }
 #serach-instruction-div{
-    font-size:10px;
+    font-size:12px;
     margin-bottom:0px;
 }
 
