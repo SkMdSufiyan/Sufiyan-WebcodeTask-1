@@ -1,0 +1,51 @@
+body{
+    margin:0px;
+    padding:20px;
+}
+
+#makeUpTable{
+    width: 100%;
+    border-collapse: collapse;
+}
+
+#makeUpTable tr, #makeUpTable th{
+    padding: 5px 5px;
+    border:1px solid #ddd;
+    text-align: center;
+    font-size:10px;
+}
+
+#makeUpTable th{
+    background-color: rgb(33, 97, 33);
+    color:white;
+    font-style:italic;
+}
+
+#page_heading_div{
+    width:100%;
+    font-size:12px;
+    font-weight:bold;
+}
+
+
+#search_and_button_div{
+    width:100%;
+    text-align: right;
+    margin-bottom: 10px;
+}
+
+#search_bar_input,#search_button_id{
+    font-size:9px;
+    margin-top:0px;
+}
+
+#loading-message-div{
+    font-size:10px;
+    margin-top:5px;
+    margin-bottom:0px;
+}
+#serach-instruction-div{
+    font-size:10px;
+    margin-bottom:0px;
+}
+
