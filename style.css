@@ -44,7 +44,7 @@ body{
     margin-top:5px;
     margin-bottom:0px;
 }
-#serach-instruction-div{
+#serach-instruction-div,#click-to-expand-div{
     font-size:12px;
     margin-bottom:0px;
 }
