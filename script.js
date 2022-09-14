@@ -3,6 +3,7 @@ page_heading.innerHTML = "Welcome to the Makeup products' details page";
 
 document.getElementById("loading-message-div").innerHTML = 'This page may take some time to get the API links, please wait patiently';
 document.getElementById('serach-instruction-div').innerHTML = 'Type the name of the product in the search bar, it will highlight that particular product in the following list';
+document.getElementById('click-to-expand-div').innerHTML = 'Click on the image to expand it, click on the product link (Check Here) to redirect';
 
 let search_and_button = document.getElementById('search_and_button_div');
 
